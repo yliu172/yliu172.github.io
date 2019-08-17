@@ -7,7 +7,7 @@
 title: Anchoret
 subtitle: Choose You Own Path
 description: 逢君一笑，人间无此欢喜
-author: 诗翔
+author: 义家
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -86,7 +86,7 @@ rss:
 
 # Specify the date when the site was setup
 #since: 2015
-since: 2017
+since: 019
 # icon between year and author @Footer
 authoricon: heart
 
@@ -214,8 +214,8 @@ font:
 #social:
   #LinkLabel: Link
 social:
-    GitHub: https://github.com/ShixiangWang
-    简书: http://www.jianshu.com/u/b6608e27dc74
+    GitHub: https://github.com/yliu172
+    微信: wanderingtaoist
 # Social Links Icons
 # Icon Mapping:
 #   Map a menu item to a specific FontAwesome icon name.
@@ -226,13 +226,10 @@ social_icons:
   # Icon Mappings.
   # KeyMapsToSocialItemKey: NameOfTheIconFromFontAwesome
   GitHub: github
-  Twitter: twitter
-  Weibo: weibo
-  简书: etsy
 
   
 # reward
-reward_comment: 人该是自己生活的主宰，而不是别人手里的行货
+reward_comment: 走出自己的路，勇气，意志，梦想
 alipay: /images/reward_image/alipay-reward-image.jpg
 # Sidebar Avatar
 # in directory: /assets/images/avatar.gif
@@ -291,12 +288,7 @@ sidebar:
   #Title: http://example.com/
 links_title: 推荐阅读
 links:
-  阮一峰的网络日志: http://www.ruanyifeng.com/blog/archives.html
-  R的极客理想系列: http://blog.fens.me/series-r/
-  谢益辉: https://yihui.name/
-  解螺旋的矿工: http://www.huangshujia.me/
-  GuangchuangYu: https://github.com/GuangchuangYu
-  生信技能树: https://vip.biotrainee.com/
+  西帕索斯永垂不朽: http://fanhan-inside.github.io/
 
 # ---------------------------------------------------------------
 # Post Settings
