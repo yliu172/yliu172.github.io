@@ -1,7 +1,7 @@
 ---
 layout: post
 title: About Me
-header: About Me
+header: 关于本人
 group: navigation
 ---
 
